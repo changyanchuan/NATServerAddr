@@ -1,1 +1,1 @@
-# NATServerAddr
+45.77.39.156
